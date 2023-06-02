@@ -30,19 +30,26 @@ Untuk menjalankan aplikasi ini, Anda memerlukan:
 
 ## Structure Folder
 
-📦xampp
-┣ 📂htdocs
-┃ ┣ 📂Project-JWD
-┃ ┃ ┣ 📂Public
-┃ ┃ ┃ ┣
-┃ ┃ ┃ ┗ 📜data.json
-┃ ┃  📂gambar
-┃ ┃ ┃ ┣ 📜empty.png
-┃ ┃ ┃ ┗ 📜flynow.png
-┃ ┃ ┣ 📂library
-┃ ┃ ┃ ┗ 📜style.css
-┃ ┃ ┣ 📜index.php
-┃ ┃ ┗ 📜README.md
+📦project-jwd
+ ┣ 📂public
+ ┃ ┣ 📂css
+ ┃ ┃ ┗ 📜style.css
+ ┃ ┣ 📂img
+ ┃ ┃ ┣ 📜hero.jpg
+ ┃ ┃ ┣ 📜plane.png
+ ┃ ┃ ┗ 📜tickets.png
+ ┃ ┣ 📂js
+ ┃ ┗ 📜index.php
+ ┣ 📂resource
+ ┃ ┣ 📂data
+ ┃ ┃ ┗ 📜data.json
+ ┃ ┗ 📂library
+ ┃ ┃ ┗ 📂bootstrap-5.3.0-alpha3-dist
+ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.bundle.min.js
+ ┗ 📜README.md
 
 ## Usage
 
