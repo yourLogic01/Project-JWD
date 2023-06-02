@@ -49,7 +49,7 @@ Untuk menjalankan aplikasi ini, Anda memerlukan:
  ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css\
  ┃ ┃ ┃ ┗ 📂js\
  ┃ ┃ ┃ ┃ ┗ 📜bootstrap.bundle.min.js\
- ┗ 📜README.md\
+ ┗ 📜README.md
 
 ## Usage
 
